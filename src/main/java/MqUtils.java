@@ -10,7 +10,7 @@ import java.io.IOException;
  */
 public class MqUtils {
 
-
+    //this util
     public static Connection getConnection() throws IOException {
 
         ConnectionFactory connectionFactory = new ConnectionFactory();
