@@ -6,7 +6,7 @@ import java.io.IOException;
 public class Producter {
     public static final String QUEUE = "testMQ";
     public static void main(String[] args) throws IOException {
-
+    //bug修改分支
 
     }
 
